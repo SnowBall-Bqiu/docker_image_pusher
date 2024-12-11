@@ -1,2 +1,2 @@
 alpine
-cloudreve/cloudreve:latest
+cloudreve/cloudreve
