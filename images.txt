@@ -1,2 +1,2 @@
 alpine
-cloudflare/cloudflared:latest
+deluan/navidrome:latest
