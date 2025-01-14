@@ -1,2 +1,2 @@
 alpine
-deluan/navidrome:latest
+snowdreadmtech/frpc
