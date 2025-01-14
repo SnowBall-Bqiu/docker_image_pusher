@@ -1,2 +1,2 @@
 alpine
-snowdreadmtech/frpc
+snowdreadmtech/frpc:latest
