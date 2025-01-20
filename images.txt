@@ -1,2 +1,2 @@
 alpine
-gitlab/gitlab-ce:latest
+ollama/ollama
