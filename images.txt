@@ -1,2 +1,2 @@
 alpine
-ollama/ollama
+ghcr.io/eugeny/tabby-web:latest
