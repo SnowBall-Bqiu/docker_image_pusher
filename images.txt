@@ -1,2 +1,2 @@
 alpine
-ollama:lastest
+ollama/ollama:latest
