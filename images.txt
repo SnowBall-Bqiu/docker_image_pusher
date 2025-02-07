@@ -1,2 +1,2 @@
 alpine
-ollama/ollama:latest
+ghcr.1ms.run/open-webui/open-webui:main
