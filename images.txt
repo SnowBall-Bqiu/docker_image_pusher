@@ -1,2 +1,2 @@
 alpine
-xhofe/alist:v3.41.0
+laoyutang/clash-and-dashboard
