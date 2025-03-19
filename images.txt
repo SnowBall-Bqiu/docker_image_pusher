@@ -1,2 +1,3 @@
 alpine
-laoyutang/clash-and-dashboard
+haishanh/yacd
+dreamacro/clash
