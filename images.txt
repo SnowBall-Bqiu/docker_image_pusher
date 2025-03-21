@@ -1,3 +1,2 @@
 alpine
-haishanh/yacd
-dreamacro/clash
+ghcr.io/open-webui/open-webui:ollama
