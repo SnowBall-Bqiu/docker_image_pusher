@@ -1,2 +1,2 @@
 alpine
-ghcr.io/open-webui/open-webui:ollama
+ghcr.io/danvergara/morphos-server:latest
