@@ -1,2 +1,2 @@
 alpine
-ghcr.io/danvergara/morphos-server:latest
+btpanel/baota:9.0_lts_lnmp
