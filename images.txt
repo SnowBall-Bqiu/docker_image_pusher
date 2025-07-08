@@ -1,2 +1,3 @@
 alpine
-btpanel/baota:9.0_lts_lnmp
+dreamacro/clash
+haishanh/yacd
