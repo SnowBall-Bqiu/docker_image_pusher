@@ -1,3 +1,4 @@
 alpine
 dreamacro/clash
 haishanh/yacd
+deluan/navidrome:latest
