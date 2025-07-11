@@ -1,2 +1,2 @@
 alpine
-etcw/clash-meta
+ghcr.io/metacubex/clash-meta
