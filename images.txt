@@ -1,4 +1,2 @@
 alpine
-dreamacro/clash
-haishanh/yacd
-deluan/navidrome:latest
+dreamacro/clash-premium
