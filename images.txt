@@ -1,2 +1,2 @@
 alpine
-ghcr.io/metacubex/clash-meta
+metacubex/mihomo:latest
